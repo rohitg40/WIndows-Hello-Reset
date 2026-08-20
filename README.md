@@ -1,4 +1,4 @@
-# 🔐 Windows Hello Reset
+# 🔐 Windows Hello Reset 
 
 PowerShell utility to reset the Windows Hello credential container for the current Windows user.
 
