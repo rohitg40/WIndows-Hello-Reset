@@ -1,4 +1,4 @@
-# 🔐 Windows Hello Reset — Best Practices
+# 🔐 Windows Hello Reset — Best Practices 
 
 * Always make sure the user can sign in with their **password** before resetting Windows Hello.
 * Run the script in the **affected user's session**.
