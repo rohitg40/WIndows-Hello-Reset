@@ -110,6 +110,4 @@ This script only resets the existing Windows Hello credential container.
 
 ## 📌 Disclaimer
 
-Use this utility at your own risk.
-
 Always ensure that an alternative sign-in method is available before resetting Windows Hello.
